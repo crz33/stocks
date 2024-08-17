@@ -1,0 +1,6 @@
+{
+    //python 次の拡張機能をインストールすること "Black Formatter", "Flake8"
+    "[python]": {
+        "editor.formatOnSave": true
+    }
+}
